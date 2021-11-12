@@ -9,3 +9,4 @@ cd $destination_folder
 rm -rf .obsidian
 git add .
 git commit -m "syncing obesidian notes $current_time"
+ggpush
