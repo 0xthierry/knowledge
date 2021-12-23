@@ -1,4 +1,4 @@
-- Automate developer workflows
+lo- Automate developer workflows
 	- Continious Integrations
 	- Continious Deployment
 	- Prepare release notes

@@ -1,0 +1,8 @@
+- Build system
+- Package manager
+- Docs generators
+- Test Runner
+- Cargo.toml is like package.json
+- Packages use semver.org
+- cargo run = build and run your program
+- cargo run --release = it a production version, it's more optimized
