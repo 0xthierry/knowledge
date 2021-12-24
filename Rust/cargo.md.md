@@ -6,3 +6,4 @@
 - Packages use semver.org
 - cargo run = build and run your program
 - cargo run --release = it a production version, it's more optimized
+- crates.io is like our npm

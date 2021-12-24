@@ -1,0 +1,13 @@
+- Integers
+	- Two groups, Unsigned and Signed
+	- from 8 to 128 bits
+	- usize and isize is the size of the platform pointer type and can represent every memory address
+	- default is i32
+- Floats
+	- f32 and f64
+	- default is f64
+- Booleans
+	- true of false
+- Characters
+	- b or a, or any character
+	- each character is 4 bytes

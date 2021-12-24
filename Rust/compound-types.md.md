@@ -1,0 +1,8 @@
+- Tuples
+	- Get multiple types at once with tuples
+	- let info: (u8, i32, bool) = (1, 3, true)
+	- let jets = info.0;
+	- let (one, two, three) = info;
+- Array stores multiples values of the same type
+	- buf[0]
+	- let values: [i32: 5] = 0;

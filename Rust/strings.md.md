@@ -1,0 +1,6 @@
+- string slice
+	- you will almost always see it as a borrowed string slice - &str
+	- a literal string is always a borrowed string slice
+		- let msg = "Hey";
+- String vs String Slice
+	- The biggest difference between the two is that the data in a borrowed string slice cannot be modified
